@@ -1,0 +1,52 @@
+body {
+  background-color: #2DD6D6;
+  width:100%
+}
+
+.bgDiv{
+  background-color: #2DD6D6;
+}
+
+.card {
+  border: 0px;
+  width: 350px;
+  height: 380px;
+  margin: 15% auto;
+}
+
+.upperCard {
+  background-color: #2D9191;
+  height: 130px;
+  margin: 0;
+  text-align: center;
+}
+
+.age {
+  font-size: 15px;
+}
+
+.card-title {
+  align-self: center;
+}
+
+.col {
+  padding: 7px;
+}
+.name {
+  font-size: 1.3rem;
+}
+
+span {
+  color: #7B7D7D;
+}
+
+.location {
+  color: #7B7D7D;
+  font-size: 0.9rem;
+}
+.profilepic {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-top: 18px;
+}
